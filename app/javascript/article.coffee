@@ -1,1 +1,0 @@
-# Place all the styles related to the articles controller here.
